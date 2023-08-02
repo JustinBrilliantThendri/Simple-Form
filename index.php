@@ -15,8 +15,8 @@
         <label for="nama">Nama :&nbsp;</label>
         <input type="text" name="nama" id="nama" required>
         <br><br>
-        <label for="tgl_lahir">Tanggal lahir :&nbsp;</label>
-        <input type="date" name="tanggal_lahir" required>
+        <label for="tanggal_lahir">Tanggal lahir :&nbsp;</label>
+        <input type="date" name="tanggal_lahir" id="tanggal_lahir" required>
         <br><br>
         <label>Jenis kelamin :&nbsp;</label>
         <label>
